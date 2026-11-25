@@ -48,7 +48,7 @@ After 5,000 training iterations, the GPT model reaches the following loss (cross
 | Train | 1.1125 |
 | Validation | 1.4869 |
 
-For comparison, a uniform guess over the 65-character vocabulary gives a loss of ln(65) ≈ 4.17. The model produces text with Shakespearean structure: speaker names, line breaks, archaic diction, and mostly well-formed English words.
+For comparison, a uniform guess over the 65-character vocabulary gives a loss of ln(65) ≈ 4.17.
 
 ## Dataset
 
